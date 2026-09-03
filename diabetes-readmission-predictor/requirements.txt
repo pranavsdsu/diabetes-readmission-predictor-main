@@ -1,0 +1,34 @@
+# Core
+pandas
+numpy
+scikit-learn
+scipy
+
+# Models
+xgboost
+lightgbm
+imbalanced-learn
+
+# Explainability
+shap
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Dashboard
+streamlit
+
+# Database
+sqlalchemy
+
+# Testing & CI
+pytest
+flake8
+
+# Utilities
+joblib
+requests
+tqdm
+optuna

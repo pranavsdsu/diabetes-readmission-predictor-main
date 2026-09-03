@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (reproducible via download script)
+data/raw/*.csv
+data/raw/*.zip
+data/*.db
+data/processed/*.csv
+
+# Model artifacts (reproducible via training)
+models/*.pkl
+models/*.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated figures
+reports/figures/*.png
+
+# Logs
+*.log
